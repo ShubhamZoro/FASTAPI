@@ -13,4 +13,4 @@ Designed to be easy to use and learn. Less time reading docs.
 
 Minimize code duplication (fewer bugs)
 
-FastAPI Github page : https://github.com/tiangolo/fastapi
+
